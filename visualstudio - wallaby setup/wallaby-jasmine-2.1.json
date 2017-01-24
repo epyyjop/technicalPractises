@@ -6,7 +6,7 @@
     "test/helper/template.js"
   ],
   "tests": [
-    "test/*JasmineSpec.js"
+    "test/*Spec.js"
   ],
   "testFramework": "jasmine@2.1.3"
 }
